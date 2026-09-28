@@ -1,16 +1,16 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
-DATABASE_URL = ""
+BOT_TOKEN = "8712477372:AAE_ZWNWElHv3xL93IutDbJaFYRcuRgbqtw"
+OWNER_ID = "7778185746"
+TELEGRAM_API = "26750159"
+TELEGRAM_HASH = "fd147a9808d7a294a4864e28a8cea47d"
+DATABASE_URL = "mongodb+srv://moviesite:password1234@cluster0.swy3ktp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
 TG_PROXY = None  # {"scheme": ”socks5”, "hostname": ””, "port": 1234, "username": ”user”, "password": ”pass”}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = ""
+AUTHORIZED_CHATS = "-1002299692735"
 SUDO_USERS = ""
 STATUS_LIMIT = 10
 DEFAULT_UPLOAD = "rc"
