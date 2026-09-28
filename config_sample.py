@@ -1,9 +1,9 @@
 # REQUIRED CONFIG
 BOT_TOKEN = "8712477372:AAE_ZWNWElHv3xL93IutDbJaFYRcuRgbqtw"
-OWNER_ID = "7778185746"
-TELEGRAM_API = "26750159"
-TELEGRAM_HASH = "fd147a9808d7a294a4864e28a8cea47d"
-DATABASE_URL = "mongodb+srv://moviesite:password1234@cluster0.swy3ktp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+OWNER_ID = ""
+TELEGRAM_API = ""
+TELEGRAM_HASH = ""
+DATABASE_URL = ""
 
 # OPTIONAL CONFIG
 DEFAULT_LANG = "en"
